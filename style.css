@@ -91,7 +91,7 @@ header .container {
 .logo {
   display: flex;
   align-items: center;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .logo img {
