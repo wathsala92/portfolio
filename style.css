@@ -265,6 +265,7 @@ header .container {
   border-radius: 50%;
   font-size: 1.1rem;
   transition: 0.3s;
+  display: none;
 }
 
 .toggle-btn i {
