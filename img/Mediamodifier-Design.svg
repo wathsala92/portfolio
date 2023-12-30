@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="ddedc97f-a435-4cef-96e3-2d28bdb65e6e"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="121087e4-4449-4d22-8421-5d86fd200bc4"  >
+</g>
+<g transform="matrix(1 0 0 1 567.37 540.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(89,175,230); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-302.37, -192.05)" d="M 290.78599 252.5872 C 324.22098000000005 252.5872 351.32497 225.48221 351.32497 192.04721999999998 C 351.32497 158.61323 324.22098 131.50823999999997 290.78599 131.50823999999997 C 276.685 131.50823999999997 263.711 136.32823999999997 253.42100000000002 144.41223999999997 C 261.257 140.04823999999996 270.28299000000004 137.56223999999997 279.88799 137.56223999999997 C 309.97998 137.56223999999997 334.37397 161.95622999999998 334.37397 192.04721999999998 C 334.37397 222.13921 309.97998 246.53319999999997 279.88799 246.53319999999997 C 270.28299 246.53319999999997 261.257 244.04719999999998 253.421 239.68419999999998 C 263.711 247.76619999999997 276.68498999999997 252.58719999999997 290.78598999999997 252.58719999999997 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 524.87 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(107,173,215); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-259.87, -192.05)" d="M 274.349 116.37325 C 232.55602 116.37325 198.67503 150.25423999999998 198.67503 192.04721999999998 C 198.67503 233.8412 232.55602 267.72218999999996 274.349 267.72218999999996 C 291.97399 267.72218999999996 308.19199 261.69618999999994 321.05498 251.59319999999997 C 311.25998 257.0472 299.97799 260.15419999999995 287.97099000000003 260.15419999999995 C 250.35600000000002 260.15419999999995 219.86402000000004 229.66220999999996 219.86402000000004 192.04722999999996 C 219.86402000000004 154.43323999999996 250.35601000000003 123.94125999999996 287.97099000000003 123.94125999999996 C 299.97799000000003 123.94125999999996 311.25998000000004 127.04825999999996 321.05498 132.50225999999995 C 308.19198 122.39925999999996 291.97399 116.37326999999995 274.349 116.37326999999995 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 518.11 540.01)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(114,188,234); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-253.11, -192.05)" d="M 240.60301 166.80823 L 256.97200000000004 217.28721000000002 L 265.62500000000006 217.28721000000002 L 249.40001000000007 166.80823 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 543.78 538.49)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(92,170,219); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-278.79, -190.53)" d="M 287.259 201.71022 L 274.639 166.80822999999998 L 270.313 178.63522999999998 L 283.221 214.25822 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 561.88 540.8)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(89,183,240); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-296.89, -192.05)" d="M 293.02799 217.28721 L 309.39698 166.80822999999998 L 300.59997999999996 166.80822999999998 L 284.37498999999997 217.28721 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 533.01 544.48)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(86,167,217); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-268, -196.52)" d="M 273.053 196.51822 C 273.053 199.25922000000003 270.745 201.56622000000002 268.005 201.56622000000002 C 265.193 201.56622000000002 262.957 199.25922000000003 262.957 196.51822 C 262.957 193.70622 265.193 191.47122000000002 268.005 191.47122000000002 C 270.745 191.47122000000002 273.053 193.70622000000003 273.053 196.51822 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>
