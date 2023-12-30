@@ -1920,7 +1920,8 @@ input[type=text]:focus-visible, textarea:focus-visible{
   .links a {
     color: #fff;
     margin-left: 0;
-    padding: 2rem 0;
+    padding: 1.5rem 0;
+    font-size: 2rem;
   }
 
   .links .btn {
