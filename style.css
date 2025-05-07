@@ -1202,12 +1202,12 @@ a:hover .card_wrapper {
 }
 
 .pw-timeline-label__date {
-  color: #bfe3f9;
+  color: #003658;
   font-size: .8rem;
 }
 
 .pw-timeline-label__title {
-  color: rgb(251, 251, 255);
+  color: #00101a;
 }
 
 .pw-timeline-label__title,
