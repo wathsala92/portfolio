@@ -1186,7 +1186,7 @@ a:hover .card_wrapper {
   transform: skewY(-30deg);
   display: block;
   padding: 0 7px;
-  background: #1ea3f6;
+  background: #0276c0;
 }
 
 .pw-timeline-label__content_hire-me {
@@ -1202,12 +1202,12 @@ a:hover .card_wrapper {
 }
 
 .pw-timeline-label__date {
-  color: #003658;
+  color: #bfe3f9;
   font-size: .8rem;
 }
 
 .pw-timeline-label__title {
-  color: #00101a;
+  color: rgb(251, 251, 255);
 }
 
 .pw-timeline-label__title,
