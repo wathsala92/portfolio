@@ -238,7 +238,7 @@ header .container {
 }
 
 .text {
-  color: var(--lightTwo);
+  color: var(--darkTwo);
   font-size: 1.1rem;
   margin: 1.9rem 0 2.5rem;
   max-width: 600px;
