@@ -327,38 +327,38 @@ header .container {
   background-color: #8dbed270;
   display: flex;
   flex-direction: column;
-  background-image: url("./img/dms-demo.png");
+  background-image: url("./img/dms-demo.webp");
   background-size: contain;
   background-repeat: no-repeat;
   /* margin: 25px 0; */
 }
 
 .portfolio:nth-child(2) .card_wrapper {
-  background-image: url("./img/serialsafe.png");
+  background-image: url("./img/serialsafe.webp");
   background-color: #95d9fd99;
   border: 1px solid #54c1fb;
 }
 
 .portfolio:nth-of-type(3) .card_wrapper {
-  background-image: url("./img/dialog-mobile-demo.png");
+  background-image: url("./img/dialog-mobile-demo.webp");
   background-color: #6779f438;
   border: 1px solid #b79ffb;
 }
 
 .portfolio:nth-of-type(4) .card_wrapper {
-  background-image: url("./img/slt-demo.png");
+  background-image: url("./img/slt-demo.webp");
   background-color: #06a08852;
   border: 1px solid #06a088;
 }
 
 .portfolio:nth-of-type(5) .card_wrapper {
-  background-image: url("./img/helaya-demo.png");
+  background-image: url("./img/helaya-demo.webp");
   background-color: #ecca2a40;
   border: 1px solid #ecca2a;
 }
 
 .portfolio:nth-of-type(6) .card_wrapper {
-  background-image: url("./img/winx-demo.png");
+  background-image: url("./img/winx-demo.webp");
   background-color: #1975d254;
   border: 1px solid #1975d2;
 }
